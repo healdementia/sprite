@@ -1,0 +1,16 @@
+{
+  "name": "spriting",
+  "version": "1.0.0",
+  "description": "A tool for spriting SVG images",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp sprite"
+  },
+  "author": "@healdementia",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-svgstore": "^6.1.0"
+  }
+}
